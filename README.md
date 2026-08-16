@@ -116,9 +116,7 @@ Temperature: `0.0`
 ---
 
 ## 6. Screenshots
-
-*(TODO — insert screenshots of: the interface, an indexed upload, an answer with sources
-shown, and the trap question being refused.)*
+![alt text](image.png)
 
 ---
 
@@ -136,5 +134,3 @@ shown, and the trap question being refused.)*
   project's build (mid-2026) — both returned 404s. Migrated to
   `sentence-transformers/all-MiniLM-L6-v2` for embeddings and `gemini-flash-latest`
   (Google's auto-updating alias) for generation to avoid this recurring.
-- *(TODO — add any other failures you hit and diagnosed, e.g. table-splitting issues,
-  duplicate chunks, wrong-quarter mixing.)*
