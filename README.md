@@ -115,12 +115,7 @@ Temperature: `0.0`
 
 ---
 
-## 6. Screenshots
-![alt text](image.png)
-
----
-
-## 7. Honest Notes — What Didn't Work
+## 6. Honest Notes — What Didn't Work
 
 - **Generic phrasing failed retrieval.** The question *"Tell me financial results of
   HSBC"* was refused (`"I cannot answer this question based on the provided documents"`),
